@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3size=35&center=true&vCenter=true&width=1000&lines=HI+Visitant!+I'm+Kevin+Moreira+(netMalware);System+Analysis+Student;Python+Developer;Front-End+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3size=35&center=true&vCenter=true&width=1000&lines=HI+Visitant!+I'm+Kevin+Moreira+(netMalware);System+Analysis+Student;Python+Developer;Front-End+Developer;BugHunter;Welcome!+:%29)](https://git.io/typing-svg)
 
   <hr>
 
@@ -10,7 +10,7 @@
 
   <hr>
 
-🐍 I'm a Python programmer,focused in Back-End Applications development, CyberSecurity and Artificial Inteligence 🐍
+🐍 I'm a Python programmer, focused in Back-End Applications development, CyberSecurity and Artificial Inteligence 🐍
   <hr>
 
   <img align="center" height="250" alt="coding-time" src="code.gif">
