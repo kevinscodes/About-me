@@ -19,11 +19,18 @@ Are you ready to improve your ideas in code?! get connected! 💡
 ![](https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-<h3 align="center">💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Quote-%F0%9F%92%BB-blueviolet?style=for-the-badge">
+</p>
 
-<h2 align="center">
-  <em>"Software is like sex: it’s better when it’s free."</em>
-</h2>
+<p align="center">
+  <b><i>"Software is like sex: it’s better when it’s free."</i></b>
+</p>
+
+<p align="center">
+  — <strong>Linus Torvalds</strong>
+</p>
+
 
 <p align="center">
   — <strong>Linus Torvalds</strong>
