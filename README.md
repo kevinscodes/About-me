@@ -19,7 +19,9 @@ Are you ready to improve your ideas in code?! get connected! 💡
 ![](https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?quote="Software is like sex: it’s better when it’s free."?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Software%20is%20like%20sex:%20it%E2%80%99s%20better%20when%20it%E2%80%99s%20free.&type=horizontal&theme=tokyonight)
+
+— Linus Torvalds
 
 ### 😂Random Dev Meme
 <img src="https://devhumor.com/" width="512px"/>
