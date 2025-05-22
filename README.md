@@ -29,6 +29,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
 
 ## 🏆GitHub Trophies
 <br></br>
+<div style="display: inline-block; vertical-align: top;"></div>
 ![](https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <hr></hr>
 <p align="center">
