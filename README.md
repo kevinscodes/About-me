@@ -1,7 +1,7 @@
 ![Banner](./profilebanner.png)
 
 # 🦆☕ About Me :
-✨ Welcome! I'm Kevin Moreira, known digitally as NetMalware. Future Full-Stack Developer and System Analysis student.
+✨ Welcome! I'm Kevin Moreira, known digitally as NetMalware. Full-Stack Developer and System Analysis student.
 
 Actually, my focus is work in personal portfolio, where i can explore technologies like: Python, Html/Css/Javascript and some Databases like MySQL & MongoDB, for example.
 
