@@ -3,6 +3,8 @@
 # 🦆☕ About Me :
 ✨ Welcome! I'm Kevin Moreira, known digitally as NetMalware. Full-Stack Developer and System Analysis student.
 
+⚠️ The name "NetMalware" don't represents a malicious contents. It's just my technical nickname inspired in offensive security and malware analysis.
+
 Actually, my focus is work in personal portfolio, where i can explore technologies like: Python, Html/Css/Javascript and some Databases like MySQL & MongoDB, for example.
 
 Are you ready to improve your ideas in code?! get connected! 💡
