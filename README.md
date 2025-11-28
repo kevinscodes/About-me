@@ -19,11 +19,11 @@ Are you ready to improve your ideas in code?! get connected! 💡
   <img src="./goose.gif" width="200px" />
   <br>
   <div style="display: inline-block; vertical-align: top;"></div></br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NetMalware&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kevinscodes&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
     <br></br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetMalware&theme=radical&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinscodes&theme=radical&hide_border=false" />
     <br></br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetMalware&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinscodes&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </div>
 
 </div>
@@ -31,7 +31,7 @@ Are you ready to improve your ideas in code?! get connected! 💡
 ## 🏆GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=NetMalware&theme=radical&no-frame=false&no-bg=false&margin-w=1" />
+  <img src="https://github-trophies.vercel.app/?username=kevinscodes&theme=radical&no-frame=false&no-bg=false&margin-w=1" />
 </p>
 
 <hr></hr>
